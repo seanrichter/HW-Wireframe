@@ -1,0 +1,82 @@
+/**
+* Easier Assignment - Building a Wireframe
+**/
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    font-size: 24px;
+    background-color: #777;
+}
+  
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #777;
+    background-color: #fff;
+    border: 1px solid #777;
+}
+
+nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #777;
+    background-color: #fff;
+    border: 1px solid #777;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #777;
+    background-color: #fff;
+    border: 1px solid #777;
+}
+
+article {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+    background-color: #777;
+    border: 1px solid #777;
+}
+
+h1 {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #777;
+    background-color: #fff;
+    border: 1px solid #777;
+}
+
+p {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #777;
+    background-color: #fff;
+    border: 1px solid #777;
+}
+
+aside {
+    background-color: #fff;
+    color: #333;
+    width: 33%;
+    height: 200px;  
+    border: 1px solid #777;
+    padding: 20px;
+    float: left;
+    margin-left: 30px;    
+}
+
+footer {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #777;
+    background-color: #fff;
+    border: 1px solid #777;
+    clear:both;
+}
+
