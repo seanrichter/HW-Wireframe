@@ -7,7 +7,7 @@
 body {
     width: 960px;
     margin:auto;
-    font-family: arial, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     line-height: 34px;
     color: #777;
@@ -46,6 +46,7 @@ article {
     padding: 10px;
     color: #ebebeb;
     background: #777;
+    margin-top: 40px;
 }
 
 .clear {
